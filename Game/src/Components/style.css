@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+}
+
+body{
+    text-align: center;
+    background-color:pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+#head{
+    font-size: 35px;
+}
+
+button{
+    padding: 3px;
+    color: blueviolet;
+    font-size: 15px;
+}
+
+#First{
+    background-color: darkred;
+    color: antiquewhite;
+}
+
+#Second{
+    background-color: darkgreen;
+    color: antiquewhite;
+}
+
+#Third{
+    background-color: darkmagenta;
+    color: antiquewhite;
+}
+
+#help{
+    background-color: blue;
+}
